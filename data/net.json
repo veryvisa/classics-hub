@@ -1,0 +1,697 @@
+{
+ "works": {
+  "daodejing": {
+   "zh": "道德经",
+   "en": "Dao De Jing (Tao Te Ching)",
+   "branch": "dao",
+   "status": "open"
+  },
+  "zhuangzi": {
+   "zh": "庄子",
+   "en": "Zhuangzi",
+   "branch": "dao",
+   "status": "planned"
+  },
+  "huanglao": {
+   "zh": "列子、黄老与《淮南子》",
+   "en": "Liezi, Huang-Lao and the Huainanzi",
+   "branch": "dao",
+   "status": "planned"
+  },
+  "zhouyi": {
+   "zh": "周易",
+   "en": "Zhouyi (The Book of Changes)",
+   "branch": "ru",
+   "status": "open"
+  },
+  "lunyu": {
+   "zh": "论语",
+   "en": "Lunyu (The Analects)",
+   "branch": "ru",
+   "status": "open"
+  },
+  "mengzi": {
+   "zh": "孟子",
+   "en": "Mengzi (Mencius)",
+   "branch": "ru",
+   "status": "planned"
+  },
+  "xueyong": {
+   "zh": "大学与中庸",
+   "en": "The Great Learning and the Doctrine of the Mean",
+   "branch": "ru",
+   "status": "planned"
+  },
+  "xunzi": {
+   "zh": "荀子",
+   "en": "Xunzi",
+   "branch": "ru",
+   "status": "planned"
+  },
+  "zhuxi": {
+   "zh": "朱熹与《近思录》",
+   "en": "Zhu Xi and Reflections on Things at Hand",
+   "branch": "ru",
+   "status": "planned"
+  },
+  "chuanxilu": {
+   "zh": "传习录",
+   "en": "Chuanxilu (Instructions for Practical Living)",
+   "branch": "ru",
+   "status": "open"
+  },
+  "wujing": {
+   "zh": "五经与先秦史书",
+   "en": "The Five Classics and the early histories",
+   "branch": "ru",
+   "status": "planned"
+  },
+  "jiaxun": {
+   "zh": "蒙学与家训",
+   "en": "Primers and family instructions",
+   "branch": "ru",
+   "status": "planned"
+  },
+  "tanjing": {
+   "zh": "六祖坛经",
+   "en": "The Platform Sutra of the Sixth Patriarch",
+   "branch": "chan",
+   "status": "open"
+  },
+  "xinjing": {
+   "zh": "心经与金刚经",
+   "en": "The Heart Sutra and the Diamond Sutra",
+   "branch": "chan",
+   "status": "planned"
+  },
+  "chanyulu": {
+   "zh": "禅宗公案与语录",
+   "en": "Chan cases and recorded sayings",
+   "branch": "chan",
+   "status": "planned"
+  },
+  "sunzi": {
+   "zh": "孙子兵法",
+   "en": "Sunzi (The Art of War)",
+   "branch": "zhu",
+   "status": "planned"
+  },
+  "mozi": {
+   "zh": "墨子",
+   "en": "Mozi",
+   "branch": "zhu",
+   "status": "planned"
+  },
+  "hanfeizi": {
+   "zh": "韩非子",
+   "en": "Han Feizi",
+   "branch": "zhu",
+   "status": "planned"
+  },
+  "yinyangjia": {
+   "zh": "阴阳家、历法与节气",
+   "en": "The Yin-Yang school, the calendar and the solar terms",
+   "branch": "zhu",
+   "status": "planned"
+  },
+  "neijing": {
+   "zh": "黄帝内经",
+   "en": "Huangdi Neijing (The Yellow Emperor's Inner Classic)",
+   "branch": "med",
+   "status": "https://veryvisa.github.io/wellness/"
+  },
+  "shanghan": {
+   "zh": "伤寒论与历代医家",
+   "en": "The Treatise on Cold Damage and the later physicians",
+   "branch": "med",
+   "status": "https://veryvisa.github.io/wellness/"
+  },
+  "shijing": {
+   "zh": "诗经与楚辞",
+   "en": "The Book of Songs and the Songs of Chu",
+   "branch": "shi",
+   "status": "planned"
+  },
+  "taoyuanming": {
+   "zh": "陶渊明",
+   "en": "Tao Yuanming",
+   "branch": "shi",
+   "status": "planned"
+  },
+  "tangsong": {
+   "zh": "唐诗宋词",
+   "en": "Tang poems and Song lyrics",
+   "branch": "shi",
+   "status": "planned"
+  },
+  "meixue": {
+   "zh": "四大名著与生活美学",
+   "en": "The four great novels and the arts of living",
+   "branch": "shi",
+   "status": "planned"
+  }
+ },
+ "cites": [
+  {
+   "work": "chuanxilu",
+   "pid": "chuanxilu/index",
+   "anchor": "",
+   "quote": "知是行之始，行是知之成。",
+   "src": "卷上 || Part 1"
+  },
+  {
+   "work": "chuanxilu",
+   "pid": "chuanxilu/index",
+   "anchor": "",
+   "quote": "你未看此花時，此花與汝心同歸於寂。你來看此花時，則此花顏色一時明白起來。",
+   "src": "卷下 || Part 3"
+  },
+  {
+   "work": "chuanxilu",
+   "pid": "chuanxilu/index",
+   "anchor": "",
+   "quote": "無善無惡是心之體，有善有惡是意之動，知善知惡是良知，為善去惡是格物。",
+   "src": "卷下 || Part 3"
+  },
+  {
+   "work": "chuanxilu",
+   "pid": "chuanxilu/index",
+   "anchor": "",
+   "quote": "人須在事上磨，方立得住，方能靜亦定、動亦定。",
+   "src": "卷上 || Part 1"
+  },
+  {
+   "work": "daodejing",
+   "pid": "daodejing/index",
+   "anchor": "",
+   "quote": "道可道，非常道；名可名，非常名。",
+   "src": "第一章 || Chapter 1"
+  },
+  {
+   "work": "daodejing",
+   "pid": "daodejing/index",
+   "anchor": "",
+   "quote": "上善若水。水善利萬物而不爭。",
+   "src": "第八章 || Chapter 8"
+  },
+  {
+   "work": "daodejing",
+   "pid": "daodejing/index",
+   "anchor": "",
+   "quote": "反者道之動，弱者道之用。",
+   "src": "第四十章 || Chapter 40"
+  },
+  {
+   "work": "daodejing",
+   "pid": "daodejing/index",
+   "anchor": "",
+   "quote": "為之於未有，治之於未亂。",
+   "src": "第六十四章 || Chapter 64"
+  },
+  {
+   "work": "neijing",
+   "pid": "gate",
+   "anchor": "yinyang",
+   "quote": "陰陽者，天地之道也，萬物之綱紀，變化之父母，生殺之本始，神明之府也。",
+   "src": "《素问·阴阳应象大论》 || Suwen, ch. 5"
+  },
+  {
+   "work": "zhouyi",
+   "pid": "gate",
+   "anchor": "yinyang",
+   "quote": "一陰一陽之謂道。",
+   "src": "《周易·系辞上》 || Book of Changes, Appended Statements I"
+  },
+  {
+   "work": "daodejing",
+   "pid": "gate",
+   "anchor": "yinyang",
+   "quote": "萬物負陰而抱陽，沖氣以為和。",
+   "src": "《道德经》第四十二章 || Dao De Jing, ch. 42"
+  },
+  {
+   "work": "wujing",
+   "pid": "gate",
+   "anchor": "wuxing",
+   "quote": "一曰水，二曰火，三曰木，四曰金，五曰土。",
+   "src": "《尚书·洪范》 || Book of Documents, \"The Great Plan\""
+  },
+  {
+   "work": "neijing",
+   "pid": "gate",
+   "anchor": "tianren",
+   "quote": "人以天地之氣生，四時之法成。",
+   "src": "《素问·宝命全形论》 || Suwen, ch. 25"
+  },
+  {
+   "work": "daodejing",
+   "pid": "gate",
+   "anchor": "tianren",
+   "quote": "人法地，地法天，天法道，道法自然。",
+   "src": "《道德经》第二十五章 || Dao De Jing, ch. 25"
+  },
+  {
+   "work": "zhuangzi",
+   "pid": "gate",
+   "anchor": "tianren",
+   "quote": "通天下一氣耳。",
+   "src": "《庄子·知北游》 || Zhuangzi, \"Knowledge Wandered North\""
+  },
+  {
+   "work": "xunzi",
+   "pid": "gate",
+   "anchor": "tianren",
+   "quote": "天行有常，不為堯存，不為桀亡。",
+   "src": "《荀子·天论》 || Xunzi, \"Discourse on Heaven\""
+  },
+  {
+   "work": "neijing",
+   "pid": "gate",
+   "anchor": "weibing",
+   "quote": "是故聖人不治已病治未病，不治已亂治未亂。",
+   "src": "《素问·四气调神大论》 || Suwen, ch. 2"
+  },
+  {
+   "work": "daodejing",
+   "pid": "gate",
+   "anchor": "weibing",
+   "quote": "為之於未有，治之於未亂。",
+   "src": "《道德经》第六十四章 || Dao De Jing, ch. 64"
+  },
+  {
+   "work": "zhouyi",
+   "pid": "gate",
+   "anchor": "weibing",
+   "quote": "君子安而不忘危，存而不忘亡，治而不忘亂。",
+   "src": "《周易·系辞下》 || Book of Changes, Appended Statements II"
+  },
+  {
+   "work": "wujing",
+   "pid": "gate",
+   "anchor": "weibing",
+   "quote": "上醫醫國，其次疾人。",
+   "src": "《国语·晋语八》 || Guoyu, \"Discourses of Jin\" 8"
+  },
+  {
+   "work": "neijing",
+   "pid": "gate",
+   "anchor": "zhonghe",
+   "quote": "謹察陰陽所在而調之，以平為期。",
+   "src": "《素问·至真要大论》 || Suwen, ch. 74"
+  },
+  {
+   "work": "xueyong",
+   "pid": "gate",
+   "anchor": "zhonghe",
+   "quote": "喜怒哀樂之未發，謂之中；發而皆中節，謂之和。",
+   "src": "《中庸》 || The Doctrine of the Mean"
+  },
+  {
+   "work": "lunyu",
+   "pid": "lunyu/index",
+   "anchor": "",
+   "quote": "學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？",
+   "src": "《学而》第一章 || 1.1"
+  },
+  {
+   "work": "lunyu",
+   "pid": "lunyu/index",
+   "anchor": "",
+   "quote": "己所不欲，勿施於人。",
+   "src": "《颜渊》第二章 || 12.2"
+  },
+  {
+   "work": "lunyu",
+   "pid": "lunyu/index",
+   "anchor": "",
+   "quote": "吾十有五而志于學，三十而立，四十而不惑，五十而知天命，六十而耳順，七十而從心所欲，不踰矩。",
+   "src": "《为政》第四章 || 2.4"
+  },
+  {
+   "work": "lunyu",
+   "pid": "lunyu/index",
+   "anchor": "",
+   "quote": "禮之用，和為貴。",
+   "src": "《学而》第十二章 || 1.12"
+  },
+  {
+   "work": "shijing",
+   "pid": "q/sleep",
+   "anchor": "",
+   "quote": "求之不得，寤寐思服。悠哉悠哉，輾轉反側。",
+   "src": "《诗经·周南·关雎》 || Book of Songs, \"Guan Ju\""
+  },
+  {
+   "work": "neijing",
+   "pid": "q/sleep",
+   "anchor": "",
+   "quote": "陽氣盡，陰氣盛，則目瞑；陰氣盡而陽氣盛，則寤矣。",
+   "src": "《灵枢·口问》 || Lingshu, ch. 28"
+  },
+  {
+   "work": "neijing",
+   "pid": "q/sleep",
+   "anchor": "",
+   "quote": "胃不和則臥不安。",
+   "src": "《素问·逆调论》 || Suwen, ch. 34"
+  },
+  {
+   "work": "daodejing",
+   "pid": "q/sleep",
+   "anchor": "",
+   "quote": "致虛極，守靜篤。",
+   "src": "《道德经》第十六章 || Dao De Jing, ch. 16"
+  },
+  {
+   "work": "zhuangzi",
+   "pid": "q/sleep",
+   "anchor": "",
+   "quote": "古之真人，其寢不夢，其覺無憂。",
+   "src": "《庄子·大宗师》 || Zhuangzi, \"The Great Ancestral Teacher\""
+  },
+  {
+   "work": "lunyu",
+   "pid": "q/sleep",
+   "anchor": "",
+   "quote": "君子坦蕩蕩，小人長戚戚。",
+   "src": "《论语·述而》 || Analects 7.37"
+  },
+  {
+   "work": "chuanxilu",
+   "pid": "q/sleep",
+   "anchor": "",
+   "quote": "人須在事上磨，方立得住，方能靜亦定、動亦定。",
+   "src": "《传习录》上 || Chuanxilu, part 1"
+  },
+  {
+   "work": "tanjing",
+   "pid": "q/sleep",
+   "anchor": "",
+   "quote": "不是風動，不是幡動，仁者心動。",
+   "src": "《六祖坛经·行由品》 || Platform Sutra, ch. 1"
+  },
+  {
+   "work": "tanjing",
+   "pid": "tanjing/index",
+   "anchor": "",
+   "quote": "菩提本無樹，明鏡亦非臺。本來無一物，何處惹塵埃？",
+   "src": "《行由品》 || Chapter 1"
+  },
+  {
+   "work": "tanjing",
+   "pid": "tanjing/index",
+   "anchor": "",
+   "quote": "何期自性，本自清淨；何期自性，本不生滅；何期自性，本自具足。",
+   "src": "《行由品》 || Chapter 1"
+  },
+  {
+   "work": "tanjing",
+   "pid": "tanjing/index",
+   "anchor": "",
+   "quote": "前念迷即凡夫，後念悟即佛。",
+   "src": "《般若品》 || Chapter 2"
+  },
+  {
+   "work": "tanjing",
+   "pid": "tanjing/index",
+   "anchor": "",
+   "quote": "若欲修行，在家亦得，不由在寺。",
+   "src": "《疑问品》 || Chapter 3"
+  },
+  {
+   "work": "chuanxilu",
+   "pid": "tanjing/index",
+   "anchor": "",
+   "quote": "人須在事上磨，方立得住，方能靜亦定、動亦定。",
+   "src": "《传习录》上 || Chuanxilu, part 1"
+  },
+  {
+   "work": "zhouyi",
+   "pid": "zhouyi/index",
+   "anchor": "",
+   "quote": "天行健，君子以自強不息。",
+   "src": "乾卦《象传》 || Image commentary on hexagram 1, Qian"
+  },
+  {
+   "work": "zhouyi",
+   "pid": "zhouyi/index",
+   "anchor": "",
+   "quote": "地勢坤，君子以厚德載物。",
+   "src": "坤卦《象传》 || Image commentary on hexagram 2, Kun"
+  },
+  {
+   "work": "zhouyi",
+   "pid": "zhouyi/index",
+   "anchor": "",
+   "quote": "易窮則變，變則通，通則久。",
+   "src": "《系辞下》 || Appended Statements II"
+  },
+  {
+   "work": "zhouyi",
+   "pid": "zhouyi/index",
+   "anchor": "",
+   "quote": "生生之謂易。",
+   "src": "《系辞上》 || Appended Statements I"
+  },
+  {
+   "work": "daodejing",
+   "pid": "map",
+   "anchor": "anxin",
+   "quote": "致虛極，守靜篤。",
+   "src": "《道德经》第十六章 || Dao De Jing, ch. 16",
+   "voice": "dao"
+  },
+  {
+   "work": "xueyong",
+   "pid": "map",
+   "anchor": "anxin",
+   "quote": "知止而后有定，定而后能靜，靜而后能安。",
+   "src": "《大学》 || The Great Learning",
+   "voice": "ru"
+  },
+  {
+   "work": "tanjing",
+   "pid": "map",
+   "anchor": "anxin",
+   "quote": "不是風動，不是幡動，仁者心動。",
+   "src": "《六祖坛经·行由品》 || Platform Sutra, ch. 1",
+   "voice": "chan"
+  },
+  {
+   "work": "xunzi",
+   "pid": "map",
+   "anchor": "anxin",
+   "quote": "心何以知？曰：虛壹而靜。",
+   "src": "《荀子·解蔽》 || Xunzi, \"Dispelling Blindness\"",
+   "voice": "zhu"
+  },
+  {
+   "work": "neijing",
+   "pid": "map",
+   "anchor": "anxin",
+   "quote": "恬淡虛無，真氣從之，精神內守，病安從來。",
+   "src": "《素问·上古天真论》 || Suwen, ch. 1",
+   "voice": "med"
+  },
+  {
+   "work": "tangsong",
+   "pid": "map",
+   "anchor": "anxin",
+   "quote": "此心安處是吾鄉。",
+   "src": "苏轼《定风波·南海归赠王定国侍人寓娘》 || Su Shi, \"Calming the Waves\"",
+   "voice": "shi"
+  },
+  {
+   "work": "daodejing",
+   "pid": "map",
+   "anchor": "chengren",
+   "quote": "為學日益，為道日損。",
+   "src": "《道德经》第四十八章 || Dao De Jing, ch. 48",
+   "voice": "dao"
+  },
+  {
+   "work": "chuanxilu",
+   "pid": "map",
+   "anchor": "chengren",
+   "quote": "知是行之始，行是知之成。",
+   "src": "《传习录》上 || Chuanxilu, part 1",
+   "voice": "ru"
+  },
+  {
+   "work": "tanjing",
+   "pid": "map",
+   "anchor": "chengren",
+   "quote": "前念迷即凡夫，後念悟即佛。",
+   "src": "《六祖坛经·般若品》 || Platform Sutra, ch. 2",
+   "voice": "chan"
+  },
+  {
+   "work": "xunzi",
+   "pid": "map",
+   "anchor": "chengren",
+   "quote": "青，取之於藍，而青於藍。",
+   "src": "《荀子·劝学》 || Xunzi, \"An Exhortation to Learning\"",
+   "voice": "zhu"
+  },
+  {
+   "work": "shanghan",
+   "pid": "map",
+   "anchor": "chengren",
+   "quote": "勤求古訓，博采眾方。",
+   "src": "《伤寒论》自序 || Shanghan Lun, author's preface",
+   "voice": "med"
+  },
+  {
+   "work": "shijing",
+   "pid": "map",
+   "anchor": "chengren",
+   "quote": "如切如磋，如琢如磨。",
+   "src": "《诗经·卫风·淇奥》 || Book of Songs, \"Qi Yu\"",
+   "voice": "shi"
+  },
+  {
+   "work": "daodejing",
+   "pid": "map",
+   "anchor": "gongchu",
+   "quote": "治大國若烹小鮮。",
+   "src": "《道德经》第六十章 || Dao De Jing, ch. 60",
+   "voice": "dao"
+  },
+  {
+   "work": "lunyu",
+   "pid": "map",
+   "anchor": "gongchu",
+   "quote": "為政以德，譬如北辰，居其所而眾星共之。",
+   "src": "《论语·为政》 || Analects 2.1",
+   "voice": "ru"
+  },
+  {
+   "work": "tanjing",
+   "pid": "map",
+   "anchor": "gongchu",
+   "quote": "若欲修行，在家亦得，不由在寺。",
+   "src": "《六祖坛经·疑问品》 || Platform Sutra, ch. 3",
+   "voice": "chan"
+  },
+  {
+   "work": "mozi",
+   "pid": "map",
+   "anchor": "gongchu",
+   "quote": "兼相愛，交相利。",
+   "src": "《墨子·兼爱中》 || Mozi, \"Impartial Care II\"",
+   "voice": "zhu"
+  },
+  {
+   "work": "neijing",
+   "pid": "map",
+   "anchor": "gongchu",
+   "quote": "心者，君主之官也，神明出焉。",
+   "src": "《素问·灵兰秘典论》 || Suwen, ch. 8",
+   "voice": "med"
+  },
+  {
+   "work": "tangsong",
+   "pid": "map",
+   "anchor": "gongchu",
+   "quote": "安得廣廈千萬間，大庇天下寒士俱歡顏。",
+   "src": "杜甫《茅屋为秋风所破歌》 || Du Fu, \"My Thatched Hut Is Wrecked by the Autumn Wind\"",
+   "voice": "shi"
+  },
+  {
+   "work": "daodejing",
+   "pid": "map",
+   "anchor": "bianhua",
+   "quote": "反者道之動，弱者道之用。",
+   "src": "《道德经》第四十章 || Dao De Jing, ch. 40",
+   "voice": "dao"
+  },
+  {
+   "work": "zhouyi",
+   "pid": "map",
+   "anchor": "bianhua",
+   "quote": "窮則變，變則通，通則久。",
+   "src": "《周易·系辞下》 || Book of Changes, Appended Statements II",
+   "voice": "ru"
+  },
+  {
+   "work": "xinjing",
+   "pid": "map",
+   "anchor": "bianhua",
+   "quote": "一切有為法，如夢幻泡影，如露亦如電，應作如是觀。",
+   "src": "《金刚经》 || Diamond Sutra",
+   "voice": "chan"
+  },
+  {
+   "work": "sunzi",
+   "pid": "map",
+   "anchor": "bianhua",
+   "quote": "兵無常勢，水無常形。",
+   "src": "《孙子兵法·虚实》 || Sunzi, \"Weak Points and Strong\"",
+   "voice": "zhu"
+  },
+  {
+   "work": "neijing",
+   "pid": "map",
+   "anchor": "bianhua",
+   "quote": "故陰陽四時者，萬物之終始也，死生之本也。",
+   "src": "《素问·四气调神大论》 || Suwen, ch. 2",
+   "voice": "med"
+  },
+  {
+   "work": "tangsong",
+   "pid": "map",
+   "anchor": "bianhua",
+   "quote": "人有悲歡離合，月有陰晴圓缺，此事古難全。",
+   "src": "苏轼《水调歌头·明月几时有》 || Su Shi, \"Prelude to Water Melody\"",
+   "voice": "shi"
+  },
+  {
+   "work": "zhuangzi",
+   "pid": "map",
+   "anchor": "shengsi",
+   "quote": "夫大塊載我以形，勞我以生，佚我以老，息我以死。",
+   "src": "《庄子·大宗师》 || Zhuangzi, \"The Great Ancestral Teacher\"",
+   "voice": "dao"
+  },
+  {
+   "work": "lunyu",
+   "pid": "map",
+   "anchor": "shengsi",
+   "quote": "未知生，焉知死？",
+   "src": "《论语·先进》 || Analects 11.12",
+   "voice": "ru"
+  },
+  {
+   "work": "xinjing",
+   "pid": "map",
+   "anchor": "shengsi",
+   "quote": "是諸法空相，不生不滅，不垢不淨，不增不減。",
+   "src": "《般若波罗蜜多心经》（玄奘译） || Heart Sutra, Xuanzang's translation",
+   "voice": "chan"
+  },
+  {
+   "work": "xunzi",
+   "pid": "map",
+   "anchor": "shengsi",
+   "quote": "生，人之始也；死，人之終也；終始俱善，人道畢矣。",
+   "src": "《荀子·礼论》 || Xunzi, \"Discourse on Ritual\"",
+   "voice": "zhu"
+  },
+  {
+   "work": "neijing",
+   "pid": "map",
+   "anchor": "shengsi",
+   "quote": "而盡終其天年，度百歲乃去。",
+   "src": "《素问·上古天真论》 || Suwen, ch. 1",
+   "voice": "med"
+  },
+  {
+   "work": "taoyuanming",
+   "pid": "map",
+   "anchor": "shengsi",
+   "quote": "縱浪大化中，不喜亦不懼。",
+   "src": "陶渊明《形影神·神释》 || Tao Yuanming, \"Body, Shadow, Spirit\"",
+   "voice": "shi"
+  }
+ ]
+}
